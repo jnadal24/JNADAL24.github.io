@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Jacob Nadal, a new student in the MDS-CL program. I am from Toronto, ON. In my free time I like to play guitar and watch movies."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JNADAL24.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
