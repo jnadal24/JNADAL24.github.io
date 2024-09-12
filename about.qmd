@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+My name is Jacob Nadal, a new student in the MDS-CL program. I am from Toronto, ON. In my free time I like to play guitar and watch movies.
